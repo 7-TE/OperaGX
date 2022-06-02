@@ -2,7 +2,7 @@
 @import url(https://l-ratio.github.io/OperaGXTheme/css/variables.css);
 @import url(https://l-ratio.github.io/OperaGXTheme/css/general/font.css);
 @import url(https://l-ratio.github.io/OperaGXTheme/css/general/background.css);
-@import url(https://l-ratio.github.io/OperaGXTheme/css/keyframes.css); <--- I personally keep this one disabled, the animations makes it feel slower */
+/* @import url(https://l-ratio.github.io/OperaGXTheme/css/keyframes.css); <--- I personally keep this one disabled, the animations makes it feel slower */
 
  
 /* Borders */
